@@ -1,0 +1,3 @@
+[submodule "corpus/text/ml-wiki"]
+	path = corpus/text/ml-wiki
+	url = https://github.com/smc/corpus.git
