@@ -44,7 +44,7 @@ def process_words(words):
 def read_words_from_file(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
         words = file.readlines()
-    return [word.strip() for word in words[:10000]]
+    return [word.strip() for word in words[:100000]] #<-- HERE
 
 words = read_words_from_file('malayalam_words.txt')
 print(len(words))   

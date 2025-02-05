@@ -6,6 +6,10 @@ This project contains a comprehensive collection of Malayalam words, including m
 
 Explore the lexicon set [here](https://malayalam-lexicons.streamlit.app).
 
+This set is the result of the processing of the first 100000 words in [malayalam_words.txt](/malayalam_words.txt).  
+To extend this set, use [base.py](/base.py), and change the offset from `:100000` to `100000:X`.
+(Recommended to use TPU on external platforms like kaggle)
+
 <br>
 <br>
 
