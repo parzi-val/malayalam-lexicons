@@ -1,2 +1,3 @@
 tqdm
-mlphon
+streamlit
+pandas
