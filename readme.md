@@ -16,5 +16,8 @@ Explore the lexicon set [here](https://malayalam-lexicons.streamlit.app).
 | [Malayalam morphology analyser](https://morph.smc.org.in)                                                                            |
 | [mlphon](https://gitlab.com/smc/mlphon)                                                                                              |
 
-<small> 1 - yet to be implemented </small>
+<br>
+<br>
+
+<small> 1 - yet to be implemented </small>  
 <small> 2 - a meaningful morphological unit of a language that cannot be further divided (e.g. in, come, -ing, forming incoming ). </small>
