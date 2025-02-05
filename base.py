@@ -1,6 +1,7 @@
 import json
-from mlphon import PhoneticAnalyser
+
 import requests
+from mlphon import PhoneticAnalyser
 from tqdm import tqdm
 
 mlphon = PhoneticAnalyser()

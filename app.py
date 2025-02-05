@@ -1,6 +1,7 @@
-import streamlit as st
-import pandas as pd
 import json
+
+import pandas as pd
+import streamlit as st
 from tqdm import tqdm
 
 st.set_page_config(page_title="Malayalam Lexicons",layout="wide")

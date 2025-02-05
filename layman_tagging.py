@@ -1,4 +1,5 @@
 import json
+
 from tqdm import tqdm
 
 # Mapping from detailed POS tags to layman-friendly categories.

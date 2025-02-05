@@ -1,6 +1,7 @@
 import os
 import re
-from tqdm import tqdm 
+
+from tqdm import tqdm
 
 # Define the base directory
 base_dir = "corpus/text/ml-wiki"
