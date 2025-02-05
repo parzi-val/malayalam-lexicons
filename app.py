@@ -85,8 +85,6 @@ selected_filter = st.pills(
     label="Filter by Layman Category",
 )
 
-print(selected_filter)
-
 # Build the DataFrame from data
 df = json_to_dataframe(data)
 
